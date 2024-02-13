@@ -12,7 +12,7 @@ Welcome to the MinesGame project, created by Srijan Samanta! This project offers
 
 ## How to Play
 
-1. Visit the hosted link: [MinesGame Project](https://srijansamanta1412.github.io/GeekAThon-MineGame/)
+1. Visit the hosted link: (https://srijansamanta1412.github.io/GeekAThon-MineGame/)
 2. Left-click on the boxes to reveal their contents.
 3. Avoid clicking on bombs to continue playing.
 4. Right-click on a box to see what type of cell it is.
