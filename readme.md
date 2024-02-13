@@ -25,6 +25,6 @@ For more information about the MinesGame project, you can visit the hosted link:
 ## Credits
 
 - **Developer**: Srijan Samanta
-- **GitHub Repository**: [MinesGame Repository](https://github.com/Srijansamanta1412/GeekAThon-MineGame)
+
 
 Enjoy playing MinesGame and have fun
