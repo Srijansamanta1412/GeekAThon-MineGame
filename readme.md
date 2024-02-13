@@ -20,7 +20,7 @@ Welcome to the MinesGame project, created by Srijan Samanta! This project offers
 
 ## Project Link
 
-For more information about the MinesGame project, you can visit the hosted link: [MinesGame Project](https://srijansamanta1412.github.io/GeekAThon-MineGame/)
+For more information about the MinesGame project, you can visit the hosted link: [(https://srijansamanta1412.github.io/GeekAThon-MineGame/)]
 
 ## Credits
 
