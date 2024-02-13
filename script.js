@@ -39,10 +39,10 @@ for (let i = 0; i < 10; i++) {
                         // Array of unique colors
                         const colors = ['blue', 'red', 'green', 'orange', 'purple', 'cyan', 'magenta', 'yellow'];
 
-                         // Get color index based on cell value
+                        // Get color index based on cell value
 
                         cell.innerHTML = cellValue;
-                        cellValue=parseInt(cellValue)
+                        cellValue = parseInt(cellValue)
                         let colorIndex = cellValue % colors.length;
                         cell.style.color = colors[colorIndex];
 
